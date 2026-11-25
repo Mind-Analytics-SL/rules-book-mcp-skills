@@ -14,8 +14,8 @@ A collection of [Claude Code skills](https://code.claude.com/docs/en/slash-comma
 Clone the repository once, then pass it with `--add-dir` each time you start Claude Code:
 
 ```bash
-git clone https://github.com/your-org/mind_one_mcp_skills ~/mind_one_mcp_skills
-claude --add-dir ~/mind_one_mcp_skills
+git clone https://github.com/your-org/rules-book-mcp-skills ~/rules-book-mcp-skills
+claude --add-dir ~/rules-book-mcp-skills
 ```
 
 To update to the latest skills, run `git pull` inside the cloned folder.
@@ -25,8 +25,8 @@ To update to the latest skills, run `git pull` inside the cloned folder.
 Clone and run the install script to copy the skills to `~/.claude/skills/`, making them available in every Claude Code session:
 
 ```bash
-git clone https://github.com/your-org/mind_one_mcp_skills
-cd mind_one_mcp_skills
+git clone https://github.com/your-org/rules-book-mcp-skills
+cd rules-book-mcp-skills
 ./install.sh
 ```
 

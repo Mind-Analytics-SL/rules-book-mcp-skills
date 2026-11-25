@@ -1,10 +1,10 @@
-# CLAUDE.md — mind_one_mcp_skills
+# CLAUDE.md — rules-book-mcp-skills (antes mind_one_mcp_skills)
 
 > Contexto de este repo para Claude Code (se auto-carga). Editar cuando algo cambie.
 
 ## Mind One de un vistazo
 Plataforma **MDM** multi-tenant. Datos: workspaces → datagroups → datagrids (governed
-sheets) + value lists. Repos hermanos en `~/projects/mind_one/`: frontend, api, mcp,
+sheets) + value lists. Repos hermanos en `~/projects/rules_book/` (prefijo `rules-book-`): frontend, api, mcp,
 mcp_skills (este), docs, landing, infra.
 
 ## Qué es este repo
